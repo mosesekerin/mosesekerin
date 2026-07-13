@@ -26,7 +26,7 @@ The project takes a four-service application from local development to a fully a
 - 📊 Monitoring & Observability
 - 🔍 Real Production Debugging & Incident Resolution
 
-**Tech:** AWS • Terraform • Docker • GitHub Actions • FastAPI • Redis • Linux
+**Tech:** AWS • Terraform • Docker • GitHub Actions • Prometheus • Grafana • Loki •FastAPI • Redis • Linux
 
 ---
 
@@ -46,7 +46,7 @@ Provisioned production-style AWS infrastructure entirely with Terraform, featuri
 
 ---
 
-### 🛡️ [Real-Time Anomaly Detection Engine](https://github.com/mosesekerin/hng-anomaly-detector)
+### 🛡️ [Real-Time Anomaly Detection Engine](https://github.com/mosesekerin/Real-time-anomaly-detection-engine)
 
 Designed a Python-based security platform that detects suspicious traffic in real time using statistical analysis and automatically blocks malicious IP addresses while generating operational alerts.
 
@@ -58,25 +58,25 @@ Designed a Python-based security platform that detects suspicious traffic in rea
 
 ---
 
-### ⚡ [SwiftDeploy CLI](https://github.com/mosesekerin/swiftdeploy-cli)
+### ⚡ [SwiftDeploy CLI](https://github.com/mosesekerin/swiftdeploy)
 
 Deployment automation platform implementing canary deployments, policy-as-code, deployment auditing, and Prometheus instrumentation to improve release reliability.
 
 ---
 
-### 🧪 [DevOps Sandbox Platform](https://github.com/mosesekerin/devops-sandbox)
+### 🧪 [DevOps Sandbox Platform](https://github.com/mosesekerin/DevOps-Sandbox)
 
 A miniature internal platform inspired by modern Platform Engineering concepts for rapidly provisioning isolated environments, experimenting safely, and practicing operational workflows.
 
 ---
 
-### 🤖 [Daily Spiritual Stewardship Tracker](https://github.com/mosesekerin/spiritual-stewardship-tracker)
+### 🤖 [Daily Spiritual Stewardship Tracker](https://github.com/mosesekerin/daily-stewardship-bot)
 
 A production-ready Telegram bot built with Python that combines scheduling, persistent storage, Docker, and background job processing into a maintainable automation platform.
 
 ---
 
-### 🏥 [CuraMap – Best Project, Karatu Cohort 2024](https://github.com/mosesekerin/curamap)
+### 🏥 [CuraMap – Best Project, Karatu Cohort 2024](https://codes-tau.vercel.app/)
 
 Co-led the development of a healthcare platform that aggregates registered online pharmacies into a unified medication search and ordering experience, helping patients locate prescribed medications more efficiently.
 
@@ -86,11 +86,8 @@ Co-led the development of a healthcare platform that aggregates registered onlin
 
 ## 🌱 Currently Learning
 
-- Platform Engineering
-- Kubernetes
-- GitOps
-- DevSecOps
 - Site Reliability Engineering
+- DevSecOps
 - Cloud Security
 
 ---
@@ -99,7 +96,7 @@ Co-led the development of a healthcare platform that aggregates registered onlin
 
 - AWS Certified Solutions Architect – Associate
 - AWS Certified Cloud Practitioner
-- HNG Tech Internship
+- HNG DevOps Tech Internship
 - Diploma in Cloud Engineering — AltSchool Africa
 - ALX AI Career Essentials
 
@@ -120,29 +117,19 @@ The projects in this profile reflect how I approach engineering.
 
 ## 🌐 Let's Connect
 
-💼 **LinkedIn**
+💼 [**LinkedIn**](https://linkedin.com/in/oluwatimileyin-ekerin-7836b7203)
 
-https://linkedin.com/in/oluwatimileyin-ekerin-7836b7203
+✍ [**Medium**](https://medium.com/@mosesekerin)
 
-✍ **Medium**
+📧 [**Email**](mosesekerin@gmail)
 
-https://medium.com/@mosesekerin
 
-📧 **Email**
 
-mosesekerin@gmail
-
-📄 **Resume**
-
-*(Add your hosted PDF link here.)*
+📄 [**Resume**](https://drive.google.com/file/d/1xrwTz3PnCaFg8WXz1jNvBh59_n2NwR7D/view?usp=sharing)
 
 ---
 
 ## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosesekerin&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mosesekerin&layout=compact&hide_border=true&theme=transparent)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mosesekerin&hide_border=true&theme=transparent)
 

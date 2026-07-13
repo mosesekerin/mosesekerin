@@ -2,31 +2,55 @@
 
 🚀 **DevOps Engineer | Cloud Engineer | AWS Certified Solutions Architect – Associate**
 
-I build production-style cloud infrastructure, automate deployments, and solve operational problems using AWS, Terraform, Docker, GitHub Actions, Linux, and Python.
+I design and automate production-style cloud infrastructure on AWS, building reliable deployment platforms and the applications that run on them.
 
-I'm particularly interested in Infrastructure as Code, deployment automation, observability, cloud security, and building systems that are reliable, maintainable, and easy to operate.
+My work centers on Infrastructure as Code, CI/CD, containerization, observability, and operational reliability—turning manual processes into repeatable, maintainable systems.
 
 ---
 
-# ⭐ Signature Project
+# ⭐ Flagship Projects
 
-## 🚀 [Job Queue Microservices Platform](https://github.com/mosesekerin/job-queue-microservices)
+Together, these two projects demonstrate a complete production workflow—from provisioning cloud infrastructure to deploying and operating applications on top of it.
 
-A production-style cloud deployment platform built to simulate how modern applications are deployed and operated in production.
+---
 
-The project takes a four-service application from local development to a fully automated AWS deployment using Infrastructure as Code, containerization, CI/CD, security scanning, rolling deployments, and production monitoring.
+## 🏗️ [Cloud Infrastructure Platform](https://github.com/mosesekerin/hng-infrastructure)
+
+Designed and automated a production-ready AWS environment using Terraform and GitHub Actions.
+
+This project provisions and manages cloud infrastructure as code while enabling automated infrastructure updates, secure authentication, monitoring, centralized logging, HTTPS, and operational visibility.
 
 ### Highlights
 
-- ☁️ AWS Infrastructure Provisioned with Terraform
-- 🐳 Multi-container Architecture using Docker
-- 🚀 Six-stage GitHub Actions CI/CD Pipeline
-- 🔐 Automated Security Scanning with Trivy
-- 📦 Rolling Deployments
-- 📊 Monitoring & Observability
-- 🔍 Real Production Debugging & Incident Resolution
+- ☁️ AWS Infrastructure as Code with Terraform
+- 🔄 GitHub Actions Infrastructure Pipeline
+- 🔐 GitHub OIDC Authentication
+- 🌐 HTTPS with Nginx & Route53
+- 📊 Prometheus Monitoring
+- 📈 Grafana Dashboards
+- 📝 Loki Centralized Logging
+- 🗄️ Remote Terraform State
 
-**Tech:** AWS • Terraform • Docker • GitHub Actions • Prometheus • Grafana • Loki •FastAPI • Redis • Linux
+**Tech:** AWS • Terraform • GitHub Actions • Prometheus • Grafana • Loki • Nginx
+
+---
+
+## 🚀 [Application Delivery Platform](https://github.com/mosesekerin/job-queue-microservices)
+
+Built and deployed a production-style microservices application onto the infrastructure platform above.
+
+The project demonstrates how applications move from source code to production through automated testing, containerization, security scanning, deployment, monitoring, and operational troubleshooting.
+
+### Highlights
+
+- 🐳 Multi-container Docker Architecture
+- 🚀 Six-stage GitHub Actions CI/CD
+- 📦 Rolling Deployments
+- 🔐 Trivy Security Scanning
+- 📊 Production Monitoring
+- 🔍 Real Production Incident Debugging
+
+**Tech:** Docker • FastAPI • Redis • GitHub Actions • Linux
 
 ---
 
@@ -38,17 +62,11 @@ The project takes a four-service application from local development to a fully a
 
 ---
 
-# 📌 Featured Projects
-
-### 🏗️ [AWS Infrastructure Automation](https://github.com/mosesekerin/hng-infrastructure)
-
-Provisioned production-style AWS infrastructure entirely with Terraform, featuring GitHub OIDC authentication, HTTPS, centralized logging, monitoring, and Infrastructure as Code best practices.
-
----
+# 📂 Engineering Portfolio
 
 ### 🛡️ [Real-Time Anomaly Detection Engine](https://github.com/mosesekerin/Real-time-anomaly-detection-engine)
 
-Designed a Python-based security platform that detects suspicious traffic in real time using statistical analysis and automatically blocks malicious IP addresses while generating operational alerts.
+Python-based security platform that continuously analyzes Nginx traffic, detects suspicious behavior, and automatically blocks malicious IP addresses using statistical anomaly detection.
 
 **Highlights**
 
@@ -60,35 +78,27 @@ Designed a Python-based security platform that detects suspicious traffic in rea
 
 ### ⚡ [SwiftDeploy CLI](https://github.com/mosesekerin/swiftdeploy)
 
-Deployment automation platform implementing canary deployments, policy-as-code, deployment auditing, and Prometheus instrumentation to improve release reliability.
+A deployment automation platform implementing canary deployments, policy-as-code, Prometheus instrumentation, and deployment auditing to improve release confidence and operational visibility.
 
 ---
 
 ### 🧪 [DevOps Sandbox Platform](https://github.com/mosesekerin/DevOps-Sandbox)
 
-A miniature internal platform inspired by modern Platform Engineering concepts for rapidly provisioning isolated environments, experimenting safely, and practicing operational workflows.
+A platform engineering lab for experimenting with ephemeral environments, Docker orchestration, automation, and chaos engineering practices.
 
 ---
 
 ### 🤖 [Daily Spiritual Stewardship Tracker](https://github.com/mosesekerin/daily-stewardship-bot)
 
-A production-ready Telegram bot built with Python that combines scheduling, persistent storage, Docker, and background job processing into a maintainable automation platform.
+Production-ready Telegram bot featuring scheduling, persistent storage, Docker deployment, and a scalable multi-user architecture.
 
 ---
 
-### 🏥 [CuraMap – Best Project, Karatu Cohort 2024](https://codes-tau.vercel.app/)
+### 🏥 [CuraMap — Best Project, Karatu Cohort 2024](https://codes-tau.vercel.app/)
 
-Co-led the development of a healthcare platform that aggregates registered online pharmacies into a unified medication search and ordering experience, helping patients locate prescribed medications more efficiently.
+Co-led the development of a web platform that aggregates registered online pharmacies, helping patients search for medication availability and order from verified providers.
 
-🏆 Awarded **Best Project – Karatu Cohort 2024**
-
----
-
-## 🌱 Currently Learning
-
-- Site Reliability Engineering
-- DevSecOps
-- Cloud Security
+🏆 Awarded **Best Project — Karatu Cohort 2024**
 
 ---
 
@@ -96,22 +106,30 @@ Co-led the development of a healthcare platform that aggregates registered onlin
 
 - AWS Certified Solutions Architect – Associate
 - AWS Certified Cloud Practitioner
-- HNG DevOps Tech Internship
+- HNG DevOps Internship
 - Diploma in Cloud Engineering — AltSchool Africa
 - ALX AI Career Essentials
 
 ---
 
+## 🌱 Currently Exploring
+
+- Site Reliability Engineering
+- DevSecOps
+- Cloud Security
+
+---
+
 ## 💡 Engineering Principles
 
-The projects in this profile reflect how I approach engineering.
+The systems I build are guided by a few core principles:
 
 - Build reliable systems before scaling them.
 - Automate repetitive work wherever possible.
 - Prefer Infrastructure as Code over manual configuration.
 - Design systems that are observable and easy to troubleshoot.
-- Document engineering decisions, not just implementations.
-- Continuously improve through experimentation and iteration.
+- Treat failures as opportunities to improve the system.
+- Document engineering decisions—not just implementations.
 
 ---
 
@@ -123,9 +141,7 @@ The projects in this profile reflect how I approach engineering.
 
 📧 [**Email**](mosesekerin@gmail)
 
-
-
-📄 [**Resume**](https://drive.google.com/file/d/1xrwTz3PnCaFg8WXz1jNvBh59_n2NwR7D/view?usp=sharing)
+📄 [**Resume**](https://drive.google.com/file/d/1xrwTz3PnCaFg8WXz1jNvBh59_n2NwR7D/view?usp=sharing]
 
 ---
 

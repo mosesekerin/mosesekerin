@@ -4,19 +4,29 @@
 
 I build production-style cloud infrastructure, automate deployments, and solve operational problems using AWS, Terraform, Docker, GitHub Actions, Linux, and Python.
 
-My projects focus on **Infrastructure as Code, CI/CD, cloud automation, observability, security, and building systems that are reliable, maintainable, and easy to operate.**
+I'm particularly interested in Infrastructure as Code, deployment automation, observability, cloud security, and building systems that are reliable, maintainable, and easy to operate.
 
 ---
 
-## 🌐 Let's Connect
+# ⭐ Signature Project
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatimileyin-ekerin-7836b7203)
+## 🚀 [Job Queue Microservices Platform](https://github.com/mosesekerin/job-queue-microservices)
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@mosesekerin)
+A production-style cloud deployment platform built to simulate how modern applications are deployed and operated in production.
 
-📩 **Email:** mosesekerin@gmail
+The project takes a four-service application from local development to a fully automated AWS deployment using Infrastructure as Code, containerization, CI/CD, security scanning, rolling deployments, and production monitoring.
 
-📄 **Resume:** *(Add your hosted PDF link here)*
+### Highlights
+
+- ☁️ AWS Infrastructure Provisioned with Terraform
+- 🐳 Multi-container Architecture using Docker
+- 🚀 Six-stage GitHub Actions CI/CD Pipeline
+- 🔐 Automated Security Scanning with Trivy
+- 📦 Rolling Deployments
+- 📊 Monitoring & Observability
+- 🔍 Real Production Debugging & Incident Resolution
+
+**Tech:** AWS • Terraform • Docker • GitHub Actions • FastAPI • Redis • Linux
 
 ---
 
@@ -24,66 +34,53 @@ My projects focus on **Infrastructure as Code, CI/CD, cloud automation, observab
 
 | Cloud & Infrastructure | Containers & CI/CD | Monitoring & Security | Languages & Tools |
 |-------------------------|--------------------|-----------------------|-------------------|
-| AWS, Terraform, Ansible, Cloud-Init | Docker, Docker Compose, GitHub Actions | Prometheus, Grafana, Loki, Trivy, OPA, Nginx | Python, Bash, Git, Linux, FastAPI, Redis |
+| AWS • Terraform • Ansible • Cloud-Init | Docker • Docker Compose • GitHub Actions | Prometheus • Grafana • Loki • Trivy • OPA • Nginx | Python • Bash • Git • Linux • FastAPI • Redis |
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 🚀 Job Queue Microservices Platform
+### 🏗️ [AWS Infrastructure Automation](https://github.com/mosesekerin/hng-infrastructure)
 
-Production-style microservices platform deployed on AWS with Infrastructure as Code, automated CI/CD, rolling deployments, security scanning, and monitoring.
-
-**Stack:** AWS • Terraform • Docker • GitHub Actions • FastAPI • Redis
+Provisioned production-style AWS infrastructure entirely with Terraform, featuring GitHub OIDC authentication, HTTPS, centralized logging, monitoring, and Infrastructure as Code best practices.
 
 ---
 
-### 🏗 AWS Infrastructure Automation
+### 🛡️ [Real-Time Anomaly Detection Engine](https://github.com/mosesekerin/hng-anomaly-detector)
 
-Provisioned production-style AWS infrastructure using Terraform with GitHub OIDC authentication, HTTPS, monitoring, centralized logging, and remote state management.
-
-**Stack:** Terraform • AWS • Prometheus • Grafana • Loki
-
----
-
-### 🛡 Real-Time Anomaly Detection Engine
-
-Built a Python-based security platform that detects suspicious traffic in real time using statistical analysis and automatically blocks malicious IP addresses.
+Designed a Python-based security platform that detects suspicious traffic in real time using statistical analysis and automatically blocks malicious IP addresses while generating operational alerts.
 
 **Highlights**
 
 - 200+ automated tests
 - <1 ms detection latency
 - <50 ms automated response
-- Zero false positives during simulation
 
 ---
 
-### ⚡ SwiftDeploy CLI
+### ⚡ [SwiftDeploy CLI](https://github.com/mosesekerin/swiftdeploy-cli)
 
-Deployment automation platform featuring canary deployments, policy enforcement, Prometheus instrumentation, and deployment auditing.
-
----
-
-### 🧪 DevOps Sandbox Platform
-
-Platform engineering lab for rapidly provisioning isolated development environments with Docker, automation, and chaos engineering experiments.
+Deployment automation platform implementing canary deployments, policy-as-code, deployment auditing, and Prometheus instrumentation to improve release reliability.
 
 ---
 
-### 🤖 Daily Spiritual Stewardship Tracker
+### 🧪 [DevOps Sandbox Platform](https://github.com/mosesekerin/devops-sandbox)
 
-Production-ready Telegram bot with scheduling, persistent storage, Docker deployment, and PostgreSQL migration support.
+A miniature internal platform inspired by modern Platform Engineering concepts for rapidly provisioning isolated environments, experimenting safely, and practicing operational workflows.
 
 ---
 
-## 🏆 Achievements
+### 🤖 [Daily Spiritual Stewardship Tracker](https://github.com/mosesekerin/spiritual-stewardship-tracker)
 
-- 🏅 AWS Certified Solutions Architect – Associate
-- 🎓 First Class Diploma in Cloud Engineering (4.0/4.0 GPA)
-- 🏆 Co-led **CuraMap**, awarded **Best Project – Karatu Cohort 2024**
-- 👥 Led a **23-member engineering team** during the AltSchool Africa capstone project
-- 🚀 Built multiple production-style DevOps and cloud engineering projects spanning infrastructure automation, deployment, monitoring, and security
+A production-ready Telegram bot built with Python that combines scheduling, persistent storage, Docker, and background job processing into a maintainable automation platform.
+
+---
+
+### 🏥 [CuraMap – Best Project, Karatu Cohort 2024](https://github.com/mosesekerin/curamap)
+
+Co-led the development of a healthcare platform that aggregates registered online pharmacies into a unified medication search and ordering experience, helping patients locate prescribed medications more efficiently.
+
+🏆 Awarded **Best Project – Karatu Cohort 2024**
 
 ---
 
@@ -93,42 +90,12 @@ Production-ready Telegram bot with scheduling, persistent storage, Docker deploy
 - Kubernetes
 - GitOps
 - DevSecOps
-- Site Reliability Engineering (SRE)
+- Site Reliability Engineering
 - Cloud Security
 
 ---
 
-## 💡 Engineering Principles
-
-I enjoy building systems that are reliable, automated, and easy to operate.
-
-The projects in this profile reflect how I approach engineering:
-
-- Automate repetitive work whenever possible.
-- Prefer Infrastructure as Code over manual configuration.
-- Design systems that are observable and easy to troubleshoot.
-- Build for maintainability, reliability, and security.
-- Understand why systems fail before fixing them.
-- Document engineering decisions—not just implementations.
-
----
-
-## 📚 Engineering Notes *(Coming Soon)*
-
-I'm documenting lessons learned while building production-style systems, including:
-
-- Terraform & Infrastructure as Code
-- CI/CD Design
-- AWS Architecture
-- Linux Administration
-- Production Debugging
-- Monitoring & Observability
-- DevSecOps Practices
-- Reliability Engineering
-
----
-
-## 📜 Certifications
+## 🏅 Certifications
 
 - AWS Certified Solutions Architect – Associate
 - AWS Certified Cloud Practitioner
@@ -138,4 +105,47 @@ I'm documenting lessons learned while building production-style systems, includi
 
 ---
 
-*"Build systems that future engineers will thank you for."*
+## 💡 Engineering Principles
+
+The projects in this profile reflect how I approach engineering.
+
+- Build reliable systems before scaling them.
+- Automate repetitive work wherever possible.
+- Prefer Infrastructure as Code over manual configuration.
+- Design systems that are observable and easy to troubleshoot.
+- Document engineering decisions, not just implementations.
+- Continuously improve through experimentation and iteration.
+
+---
+
+## 🌐 Let's Connect
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/oluwatimileyin-ekerin-7836b7203
+
+✍ **Medium**
+
+https://medium.com/@mosesekerin
+
+📧 **Email**
+
+mosesekerin@gmail
+
+📄 **Resume**
+
+*(Add your hosted PDF link here.)*
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosesekerin&show_icons=true&hide_border=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mosesekerin&layout=compact&hide_border=true&theme=transparent)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mosesekerin&hide_border=true&theme=transparent)
+
+---
+
+> *"Build systems that future engineers will thank you for."*

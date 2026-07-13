@@ -106,8 +106,8 @@ Co-led the development of a web platform that aggregates registered online pharm
 
 - AWS Certified Solutions Architect – Associate
 - AWS Certified Cloud Practitioner
-- HNG DevOps Internship
 - Diploma in Cloud Engineering — AltSchool Africa
+- HNG DevOps Internship
 - ALX AI Career Essentials
 
 ---

@@ -141,7 +141,7 @@ The systems I build are guided by a few core principles:
 
 📧 [**Email**](mosesekerin@gmail)
 
-📄 [**Resume**](https://drive.google.com/file/d/1xrwTz3PnCaFg8WXz1jNvBh59_n2NwR7D/view?usp=sharing]
+📄 [**Resume**](https://drive.google.com/file/d/1xrwTz3PnCaFg8WXz1jNvBh59_n2NwR7D/view?usp=sharing)
 
 ---
 

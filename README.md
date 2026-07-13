@@ -1,279 +1,141 @@
-# Hi, I'm Ekerin Oluwatimileyin Moses 👋
+# 👋 Hi, I'm Ekerin Oluwatimileyin Moses
 
-### DevOps Engineer | Cloud Engineer | AWS Certified Solutions Architect – Associate
+🚀 **DevOps Engineer | Cloud Engineer | AWS Certified Solutions Architect – Associate**
 
-I build **production-style cloud infrastructure**, automate deployments, and solve operational problems.
+I build production-style cloud infrastructure, automate deployments, and solve operational problems using AWS, Terraform, Docker, GitHub Actions, Linux, and Python.
 
-My work focuses on designing systems that are **reliable, automated, secure, and easy to operate**. From provisioning infrastructure with Infrastructure as Code to deploying containerized applications and building CI/CD pipelines, I enjoy turning manual processes into repeatable, maintainable systems.
-
-I believe software isn't finished when it deploys—it's finished when it can be operated, monitored, recovered, and improved with confidence.
+My projects focus on **Infrastructure as Code, CI/CD, cloud automation, observability, security, and building systems that are reliable, maintainable, and easy to operate.**
 
 ---
 
-## 🎯 Current Focus
+## 🌐 Let's Connect
 
-I'm currently focused on improving my expertise in:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatimileyin-ekerin-7836b7203)
 
-- ☁️ AWS Cloud Infrastructure
-- 🏗 Infrastructure as Code (Terraform & Ansible)
-- 🐳 Containerized Applications
-- 🚀 CI/CD & Deployment Automation
-- 📊 Monitoring & Observability
-- 🔒 DevSecOps & Infrastructure Security
-- ⚡ Platform Engineering
-- 📈 Reliability Engineering (SRE)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@mosesekerin)
+
+📩 **Email:** mosesekerin@gmail
+
+📄 **Resume:** *(Add your hosted PDF link here)*
 
 ---
 
-# ⭐ Featured Projects
+## 🛠 Tech Stack
 
-## 🚀 Job Queue Microservices Platform
+| Cloud & Infrastructure | Containers & CI/CD | Monitoring & Security | Languages & Tools |
+|-------------------------|--------------------|-----------------------|-------------------|
+| AWS, Terraform, Ansible, Cloud-Init | Docker, Docker Compose, GitHub Actions | Prometheus, Grafana, Loki, Trivy, OPA, Nginx | Python, Bash, Git, Linux, FastAPI, Redis |
 
-Production-style microservices platform deployed on AWS.
+---
+
+## 📌 Featured Projects
+
+### 🚀 Job Queue Microservices Platform
+
+Production-style microservices platform deployed on AWS with Infrastructure as Code, automated CI/CD, rolling deployments, security scanning, and monitoring.
+
+**Stack:** AWS • Terraform • Docker • GitHub Actions • FastAPI • Redis
+
+---
+
+### 🏗 AWS Infrastructure Automation
+
+Provisioned production-style AWS infrastructure using Terraform with GitHub OIDC authentication, HTTPS, monitoring, centralized logging, and remote state management.
+
+**Stack:** Terraform • AWS • Prometheus • Grafana • Loki
+
+---
+
+### 🛡 Real-Time Anomaly Detection Engine
+
+Built a Python-based security platform that detects suspicious traffic in real time using statistical analysis and automatically blocks malicious IP addresses.
 
 **Highlights**
 
-- Dockerized four-service architecture
-- Terraform infrastructure provisioning
-- Six-stage GitHub Actions CI/CD pipeline
-- Rolling deployments
-- Security scanning
-- Infrastructure automation
-- Production debugging & troubleshooting
-
-**Stack**
-
-AWS • Terraform • Docker • FastAPI • Redis • GitHub Actions
+- 200+ automated tests
+- <1 ms detection latency
+- <50 ms automated response
+- Zero false positives during simulation
 
 ---
 
-## 🏗 AWS Infrastructure Automation
+### ⚡ SwiftDeploy CLI
 
-Reusable cloud infrastructure built entirely with Infrastructure as Code.
-
-Features include:
-
-- VPC Networking
-- EC2 Provisioning
-- HTTPS
-- Route53
-- GitHub OIDC Authentication
-- Remote Terraform State
-- Prometheus Monitoring
-- Grafana Dashboards
-- Loki Centralized Logging
-
-**Stack**
-
-Terraform • AWS • GitHub Actions • Prometheus • Grafana • Loki
+Deployment automation platform featuring canary deployments, policy enforcement, Prometheus instrumentation, and deployment auditing.
 
 ---
 
-## 🛡 Real-Time Anomaly Detection Engine
+### 🧪 DevOps Sandbox Platform
 
-A Python-based security platform that continuously monitors Nginx traffic and automatically responds to suspicious behavior.
-
-Features
-
-- Sliding Window Analysis
-- Statistical Baselines
-- Automated IP Blocking
-- Slack Alerting
-- Live Dashboard
-- Security Automation
-
-**Highlights**
-
-✔ 200+ Automated Tests
-
-✔ <1 ms Detection Latency
-
-✔ <50 ms Automated Response
-
-✔ Zero False Positives (Simulation)
+Platform engineering lab for rapidly provisioning isolated development environments with Docker, automation, and chaos engineering experiments.
 
 ---
 
-## ⚡ SwiftDeploy CLI
+### 🤖 Daily Spiritual Stewardship Tracker
 
-Deployment automation platform built around modern deployment practices.
-
-Features
-
-- Canary Deployments
-- Policy Enforcement (OPA)
-- Prometheus Metrics
-- Audit Reports
-- Deployment Automation
+Production-ready Telegram bot with scheduling, persistent storage, Docker deployment, and PostgreSQL migration support.
 
 ---
 
-## 🧪 DevOps Sandbox Platform
+## 🏆 Achievements
 
-A miniature internal developer platform inspired by modern Platform Engineering concepts.
-
-Features
-
-- Ephemeral Environments
-- Docker Compose Orchestration
-- Chaos Engineering
-- Infrastructure Automation
+- 🏅 AWS Certified Solutions Architect – Associate
+- 🎓 First Class Diploma in Cloud Engineering (4.0/4.0 GPA)
+- 🏆 Co-led **CuraMap**, awarded **Best Project – Karatu Cohort 2024**
+- 👥 Led a **23-member engineering team** during the AltSchool Africa capstone project
+- 🚀 Built multiple production-style DevOps and cloud engineering projects spanning infrastructure automation, deployment, monitoring, and security
 
 ---
 
-## 🤖 Daily Spiritual Stewardship Tracker
+## 🌱 Currently Learning
 
-A production-ready Telegram bot built for structured habit tracking and accountability.
-
-Features
-
-- Python
-- Docker
-- SQLAlchemy
-- APScheduler
-- Multi-user Architecture
-- PostgreSQL Migration Support
+- Platform Engineering
+- Kubernetes
+- GitOps
+- DevSecOps
+- Site Reliability Engineering (SRE)
+- Cloud Security
 
 ---
 
-# 🛠 Tech Stack
+## 💡 Engineering Principles
 
-### ☁️ Cloud
+I enjoy building systems that are reliable, automated, and easy to operate.
 
-AWS
-
-### 🏗 Infrastructure as Code
-
-Terraform
-
-Ansible
-
-Cloud-Init
-
-### 🐳 Containers
-
-Docker
-
-Docker Compose
-
-### 🚀 CI/CD
-
-GitHub Actions
-
-### 🐧 Operating Systems
-
-Ubuntu Linux
-
-Amazon Linux
-
-### 💻 Programming
-
-Python
-
-Bash
-
-### 🌐 Networking
-
-Nginx
-
-DNS
-
-HTTPS
-
-Reverse Proxy
-
-TCP/IP
-
-### 📊 Monitoring
-
-Prometheus
-
-Grafana
-
-Loki
-
-### 🔒 Security
-
-Trivy
-
-OPA (Rego)
-
-iptables
-
-SSH Hardening
-
-### 🔧 Version Control
-
-Git
-
-GitHub
-
----
-
-# 🏆 Highlights
-
-🏅 AWS Certified Solutions Architect – Associate
-
-🎓 First Class Diploma in Cloud Engineering (4.0/4.0 GPA)
-
-🎓 Scholarship Recipient
-
-👥 Led a 23-member engineering team during the AltSchool Africa capstone project
-
-🏆 Co-led **CuraMap**, awarded **Best Project – Karatu Cohort 2024**
-
-🛠 Built multiple production-style cloud infrastructure and DevOps projects spanning AWS, Terraform, Docker, GitHub Actions, Linux, Monitoring, Automation, and Security
-
----
-
-# 💡 Engineering Philosophy
-
-The projects in this profile reflect how I approach engineering.
-
-> Build systems that are reliable before they are scalable.
-
-I try to follow a few principles in every project:
+The projects in this profile reflect how I approach engineering:
 
 - Automate repetitive work whenever possible.
-- Prefer reproducible infrastructure over manual configuration.
+- Prefer Infrastructure as Code over manual configuration.
 - Design systems that are observable and easy to troubleshoot.
-- Treat failures as learning opportunities.
-- Document engineering decisions, not just implementations.
-- Build for maintainability as much as functionality.
+- Build for maintainability, reliability, and security.
+- Understand why systems fail before fixing them.
+- Document engineering decisions—not just implementations.
 
 ---
 
-# 📖 Engineering Notes
+## 📚 Engineering Notes *(Coming Soon)*
 
-One of my goals is to document not just **what** I build, but **what I learn while building it**.
+I'm documenting lessons learned while building production-style systems, including:
 
-You'll find write-ups covering topics such as:
-
-- Debugging production deployments
-- CI/CD pipeline design
-- Terraform lessons learned
-- Linux administration
-- Infrastructure troubleshooting
-- Cloud architecture decisions
-- Reliability engineering
-- DevSecOps practices
+- Terraform & Infrastructure as Code
+- CI/CD Design
+- AWS Architecture
+- Linux Administration
+- Production Debugging
+- Monitoring & Observability
+- DevSecOps Practices
+- Reliability Engineering
 
 ---
 
-# 🤝 Let's Connect
+## 📜 Certifications
 
-📧 **Email**
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
+- HNG Tech Internship
+- Diploma in Cloud Engineering — AltSchool Africa
+- ALX AI Career Essentials
 
-mosesekerin@gmail
+---
 
-💼 **LinkedIn**
-
-https://linkedin.com/in/oluwatimileyin-ekerin-7836b7203
-
-✍ **Medium**
-
-https://medium.com/@mosesekerin
-
-🌍 **Open to**
-
-Entry-Level DevOps Engineer • Cloud Engineer • Infrastructure Engineer • Platform Engineering • Remote Opportunities
+*"Build systems that future engineers will thank you for."*

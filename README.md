@@ -181,13 +181,6 @@ The systems I build are guided by a few core principles.
 
 # 📈 Open Source Activity
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mosesekerin&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosesekerin&layout=compact&hide_border=true&theme=transparent"/>
-
-</p>
 
 <p align="center">
 

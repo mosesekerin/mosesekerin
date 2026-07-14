@@ -1,10 +1,13 @@
+<p align="center">
+  <img src="assets/Github_Banner.png" alt="GitHub Banner" width="100%">
+</p>
 # 👋 Hi, I'm Ekerin Oluwatimileyin Moses
 
 🚀 **DevOps Engineer | Cloud Engineer | AWS Certified Solutions Architect – Associate**
 
-I design and automate production-style cloud infrastructure on AWS, building reliable deployment platforms and the applications that run on them.
+I build production-ready cloud platforms that make deploying, operating, and securing applications reliable and repeatable.
 
-My work centers on Infrastructure as Code, CI/CD, containerization, observability, and operational reliability—turning manual processes into repeatable, maintainable systems.
+My work spans Infrastructure as Code, CI/CD automation, containerization, observability, and cloud security—transforming manual operations into automated engineering systems.
 
 ---
 
@@ -54,6 +57,18 @@ The project demonstrates how applications move from source code to production th
 
 ---
 
+# 🏗 How I Build Production Systems
+
+Rather than treating my repositories as isolated projects, I build them as different stages of a production engineering workflow.
+
+Starting with cloud infrastructure, I automate deployments, operate and observe running systems, strengthen security, and continuously improve the platform through automation and documentation.
+
+<p align="center">
+    <img src="assets/Engineering_Workflow.png" width="1000" alt="Engineering Workflow">
+</p>
+
+---
+
 ## 🛠 Tech Stack
 
 | Cloud & Infrastructure | Containers & CI/CD | Monitoring & Security | Languages & Tools |
@@ -62,7 +77,9 @@ The project demonstrates how applications move from source code to production th
 
 ---
 
-# 📂 Engineering Portfolio
+# 📂 Engineering Projects
+
+## 🔒 Security & Reliability
 
 ### 🛡️ [Real-Time Anomaly Detection Engine](https://github.com/mosesekerin/Real-time-anomaly-detection-engine)
 
@@ -82,11 +99,15 @@ A deployment automation platform implementing canary deployments, policy-as-code
 
 ---
 
+## ⚙️ Platform Engineering
+
 ### 🧪 [DevOps Sandbox Platform](https://github.com/mosesekerin/DevOps-Sandbox)
 
 A platform engineering lab for experimenting with ephemeral environments, Docker orchestration, automation, and chaos engineering practices.
 
 ---
+
+## 🤖 Automation
 
 ### 🤖 [Daily Spiritual Stewardship Tracker](https://github.com/mosesekerin/daily-stewardship-bot)
 
@@ -94,25 +115,27 @@ Production-ready Telegram bot featuring scheduling, persistent storage, Docker d
 
 ---
 
+## 🌍 Product Development
+
 ### 🏥 [CuraMap — Best Project, Karatu Cohort 2024](https://codes-tau.vercel.app/)
 
 Co-led the development of a web platform that aggregates registered online pharmacies, helping patients search for medication availability and order from verified providers.
 
-🏆 Awarded **Best Project — Karatu Cohort 2024**
+🏆 **Awarded Best Project — Karatu Cohort 2024**
 
 ---
 
-## 🏅 Certifications
+# 🏅 Certifications
 
-- AWS Certified Solutions Architect – Associate
-- AWS Certified Cloud Practitioner
-- Diploma in Cloud Engineering — AltSchool Africa
-- HNG DevOps Internship
-- ALX AI Career Essentials
+- 🏅 AWS Certified Solutions Architect – Associate
+- ☁️ AWS Certified Cloud Practitioner
+- 🎓 Diploma in Cloud Engineering — AltSchool Africa
+- 🚀 HNG DevOps Internship
+- 🤖 ALX AI Career Essentials
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Currently Building
 
 - Site Reliability Engineering
 - DevSecOps
@@ -120,15 +143,15 @@ Co-led the development of a web platform that aggregates registered online pharm
 
 ---
 
-## 💡 Engineering Principles
+# 💡 Engineering Philosophy
 
-The systems I build are guided by a few core principles:
+The systems I build are guided by a few core principles.
 
-- Build reliable systems before scaling them.
+- Design systems for reliability before scale.
 - Automate repetitive work wherever possible.
 - Prefer Infrastructure as Code over manual configuration.
-- Design systems that are observable and easy to troubleshoot.
-- Treat failures as opportunities to improve the system.
+- Build observable systems that are easy to troubleshoot.
+- Treat failures as opportunities to improve the platform.
 - Document engineering decisions—not just implementations.
 
 ---

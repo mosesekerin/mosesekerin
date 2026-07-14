@@ -11,6 +11,7 @@ My work spans Infrastructure as Code, CI/CD automation, containerization, observ
 
 ---
 
+
 # ⭐ Flagship Projects
 
 Together, these two projects demonstrate a complete production workflow—from provisioning cloud infrastructure to deploying and operating applications on top of it.
@@ -57,6 +58,7 @@ The project demonstrates how applications move from source code to production th
 
 ---
 
+
 # 🏗 How I Build Production Systems
 
 Rather than treating my repositories as isolated projects, I build them as different stages of a production engineering workflow.
@@ -69,6 +71,7 @@ Starting with cloud infrastructure, I automate deployments, operate and observe 
 
 ---
 
+
 ## 🛠 Tech Stack
 
 | Cloud & Infrastructure | Containers & CI/CD | Monitoring & Security | Languages & Tools |
@@ -76,6 +79,7 @@ Starting with cloud infrastructure, I automate deployments, operate and observe 
 | AWS • Terraform • Ansible • Cloud-Init | Docker • Docker Compose • GitHub Actions | Prometheus • Grafana • Loki • Trivy • OPA • Nginx | Python • Bash • Git • Linux • FastAPI • Redis |
 
 ---
+
 
 # 📂 Engineering Projects
 
@@ -99,6 +103,7 @@ A deployment automation platform implementing canary deployments, policy-as-code
 
 ---
 
+
 ## ⚙️ Platform Engineering
 
 ### 🧪 [DevOps Sandbox Platform](https://github.com/mosesekerin/DevOps-Sandbox)
@@ -106,6 +111,7 @@ A deployment automation platform implementing canary deployments, policy-as-code
 A platform engineering lab for experimenting with ephemeral environments, Docker orchestration, automation, and chaos engineering practices.
 
 ---
+
 
 ## 🤖 Automation
 
@@ -115,11 +121,13 @@ Production-ready Telegram bot featuring scheduling, persistent storage, Docker d
 
 ---
 
+
 ## 🌍 Product Development
 
 ### 🏥 [CuraMap — Best Project, Karatu Cohort 2024](https://codes-tau.vercel.app/)
 
 Co-led the development of a web platform that aggregates registered online pharmacies, helping patients search for medication availability and order from verified providers.
+
 
 🏆 **Awarded Best Project — Karatu Cohort 2024**
 
@@ -135,6 +143,7 @@ Co-led the development of a web platform that aggregates registered online pharm
 
 ---
 
+
 ## 🌱 Currently Building
 
 - Site Reliability Engineering
@@ -142,6 +151,7 @@ Co-led the development of a web platform that aggregates registered online pharm
 - Cloud Security
 
 ---
+
 
 # 💡 Engineering Philosophy
 
@@ -155,6 +165,7 @@ The systems I build are guided by a few core principles.
 - Document engineering decisions—not just implementations.
 
 ---
+
 
 ## 🌐 Let's Connect
 

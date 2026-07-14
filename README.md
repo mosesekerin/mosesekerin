@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Github_Banner.png" alt="GitHub Banner" width="100%">
+  <img src="asset/Github_Banner.png" alt="GitHub Banner" width="100%">
 </p>
 # 👋 Hi, I'm Ekerin Oluwatimileyin Moses
 
@@ -64,7 +64,7 @@ Rather than treating my repositories as isolated projects, I build them as diffe
 Starting with cloud infrastructure, I automate deployments, operate and observe running systems, strengthen security, and continuously improve the platform through automation and documentation.
 
 <p align="center">
-    <img src="assets/Engineering_Workflow.png" width="1000" alt="Engineering Workflow">
+    <img src="asset/Engineering_Workflow.png" width="1000" alt="Engineering Workflow">
 </p>
 
 ---

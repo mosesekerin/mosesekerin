@@ -1,7 +1,7 @@
 <p align="center">
   <img src="asset/Github_Banner.png" alt="GitHub Banner" width="100%">
 </p>
-# 👋 Hi, I'm Ekerin Oluwatimileyin Moses
+#👋 Hi, I'm Ekerin Oluwatimileyin Moses
 
 🚀 **DevOps Engineer | Cloud Engineer | AWS Certified Solutions Architect – Associate**
 

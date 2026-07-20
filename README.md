@@ -117,6 +117,7 @@ flowchart LR
     click P8 "https://github.com/mosesekerin/Real-time-anomaly-detection-engine" "Open Repository"
     click P9 "https://github.com/mosesekerin/swiftdeploy" "Open Repository"
     click P10 "https://github.com/mosesekerin/DevOps-Sandbox" "Open Repository"
+```
 ---
 
 

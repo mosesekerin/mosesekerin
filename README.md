@@ -83,8 +83,8 @@ flowchart LR
 
     subgraph Deploy
         P2["Job Queue Microservices"]
-        P3["Daily Stewardship Bot"]
-        P4["End To End DevOps Pipeline"]
+        P3["End To End DevOps Pipeline"]
+        P4["Daily Stewardship Bot"]
     end
 
     subgraph Observe
@@ -114,6 +114,8 @@ flowchart LR
 
     click P1 "https://github.com/mosesekerin/hng-infrastructure" "Open Repository"
     click P2 "https://github.com/mosesekerin/job-queue-microservices" "Open Repository"
+    click P3 "https://github.com/mosesekerin/End-to-End-DevOps-Pipeline-Evolution-" "Open Repository"
+    click P4 "https://github.com/mosesekerin/daily-stewardship-bot" "Open Repository"
     click P8 "https://github.com/mosesekerin/Real-time-anomaly-detection-engine" "Open Repository"
     click P9 "https://github.com/mosesekerin/swiftdeploy" "Open Repository"
     click P10 "https://github.com/mosesekerin/DevOps-Sandbox" "Open Repository"

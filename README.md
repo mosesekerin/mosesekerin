@@ -112,12 +112,11 @@ flowchart LR
     P8 --> P9
     P9 --> P11
 
-    %% Clickable Links
-    click P1 "[https://github.com/mosesekerin/hng-infrastructure](https://github.com/mosesekerin/hng-infrastructure)" _blank
-    click P2 "[https://github.com/mosesekerin/job-queue-microservices](https://github.com/mosesekerin/job-queue-microservices)" _blank
-    click P8 "[https://github.com/mosesekerin/Real-time-anomaly-detection-engine](https://github.com/mosesekerin/Real-time-anomaly-detection-engine)" _blank
-    click P9 "[https://github.com/mosesekerin/swiftdeploy](https://github.com/mosesekerin/swiftdeploy)" _blank
-    click P10 "[https://github.com/mosesekerin/DevOps-Sandbox](https://github.com/mosesekerin/DevOps-Sandbox)" _blank
+    click P1 "https://github.com/mosesekerin/hng-infrastructure" "Open Repository"
+    click P2 "https://github.com/mosesekerin/job-queue-microservices" "Open Repository"
+    click P8 "https://github.com/mosesekerin/Real-time-anomaly-detection-engine" "Open Repository"
+    click P9 "https://github.com/mosesekerin/swiftdeploy" "Open Repository"
+    click P10 "https://github.com/mosesekerin/DevOps-Sandbox" "Open Repository"
 ---
 
 

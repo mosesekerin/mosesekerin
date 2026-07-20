@@ -68,7 +68,6 @@ Rather than treating my repositories as isolated projects, I build them as diffe
 
 Starting with cloud infrastructure, I automate deployments, operate and observe running systems, strengthen security, and continuously improve the platform through automation and documentation.
 
-<p align="center">
   ```mermaid
 flowchart LR
 
@@ -121,7 +120,6 @@ flowchart LR
     click P9 "https://github.com/mosesekerin/swiftdeploy" "Open Repository"
     click P10 "https://github.com/mosesekerin/DevOps-Sandbox" "Open Repository"
 ```
-</p>
 ---
 
 

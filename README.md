@@ -97,7 +97,7 @@ flowchart LR
         P8["Anomaly Detection"]
     end
 
-    subgraph Automate
+    subgraph Reliable
         P9["SwiftDeploy"]
         P10["DevOps Sandbox"]
     end

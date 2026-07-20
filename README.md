@@ -68,9 +68,57 @@ Rather than treating my repositories as isolated projects, I build them as diffe
 
 Starting with cloud infrastructure, I automate deployments, operate and observe running systems, strengthen security, and continuously improve the platform through automation and documentation.
 
-<p align="center">
-    <img src="asset/Engineering_Workflow.png" width="1000" alt="Engineering Workflow">
-</p>
+flowchart LR
+
+A["🏗 Provision"] --> B["🚀 Deploy"]
+
+B --> C["📊 Observe"]
+
+C --> D["🔒 Secure"]
+
+D --> E["⚙ Automate"]
+
+E --> F["📚 Learn & Improve"]
+
+
+subgraph Provision
+P1["Cloud Infrastructure Platform"](https://github.com/mosesekerin/hng-infrastructure)
+end
+
+subgraph Deploy
+P2["Job Queue Microservices"](https://github.com/mosesekerin/job-queue-microservices)
+P3["Daily Stewardship Bot"]
+P4["End To End DevOps Pipeline"]
+end
+
+subgraph Observe
+P5["Prometheus"]
+P6["Grafana"]
+P7["Loki"]
+end
+
+subgraph Secure
+P8["Anomaly Detection"](https://github.com/mosesekerin/Real-time-anomaly-detection-engine)
+end
+
+subgraph Automate
+P9["SwiftDeploy"](https://github.com/mosesekerin/swiftdeploy)
+P10["DevOps Sandbox"](https://github.com/mosesekerin/DevOps-Sandbox)
+end
+
+subgraph Learn
+P11["Engineering Notes"]
+end
+
+P1 --> P2
+
+P2 --> P5
+
+P5 --> P8
+
+P8 --> P9
+
+P9 --> P11
 
 ---
 

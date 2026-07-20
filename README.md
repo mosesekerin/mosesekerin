@@ -68,58 +68,56 @@ Rather than treating my repositories as isolated projects, I build them as diffe
 
 Starting with cloud infrastructure, I automate deployments, operate and observe running systems, strengthen security, and continuously improve the platform through automation and documentation.
 
+```mermaid
 flowchart LR
 
-A["🏗 Provision"] --> B["🚀 Deploy"]
+    A["🏗 Provision"] --> B["🚀 Deploy"]
+    B --> C["📊 Observe"]
+    C --> D["🔒 Secure"]
+    D --> E["⚙ Automate"]
+    E --> F["📚 Learn & Improve"]
 
-B --> C["📊 Observe"]
+    subgraph Provision
+        P1["Cloud Infrastructure Platform"]
+    end
 
-C --> D["🔒 Secure"]
+    subgraph Deploy
+        P2["Job Queue Microservices"]
+        P3["Daily Stewardship Bot"]
+        P4["End To End DevOps Pipeline"]
+    end
 
-D --> E["⚙ Automate"]
+    subgraph Observe
+        P5["Prometheus"]
+        P6["Grafana"]
+        P7["Loki"]
+    end
 
-E --> F["📚 Learn & Improve"]
+    subgraph Secure
+        P8["Anomaly Detection"]
+    end
 
+    subgraph Automate
+        P9["SwiftDeploy"]
+        P10["DevOps Sandbox"]
+    end
 
-subgraph Provision
-P1["Cloud Infrastructure Platform"](https://github.com/mosesekerin/hng-infrastructure)
-end
+    subgraph Learn
+        P11["Engineering Notes"]
+    end
 
-subgraph Deploy
-P2["Job Queue Microservices"](https://github.com/mosesekerin/job-queue-microservices)
-P3["Daily Stewardship Bot"]
-P4["End To End DevOps Pipeline"]
-end
+    P1 --> P2
+    P2 --> P5
+    P5 --> P8
+    P8 --> P9
+    P9 --> P11
 
-subgraph Observe
-P5["Prometheus"]
-P6["Grafana"]
-P7["Loki"]
-end
-
-subgraph Secure
-P8["Anomaly Detection"](https://github.com/mosesekerin/Real-time-anomaly-detection-engine)
-end
-
-subgraph Automate
-P9["SwiftDeploy"](https://github.com/mosesekerin/swiftdeploy)
-P10["DevOps Sandbox"](https://github.com/mosesekerin/DevOps-Sandbox)
-end
-
-subgraph Learn
-P11["Engineering Notes"]
-end
-
-P1 --> P2
-
-P2 --> P5
-
-P5 --> P8
-
-P8 --> P9
-
-P9 --> P11
-
+    %% Clickable Links
+    click P1 "[https://github.com/mosesekerin/hng-infrastructure](https://github.com/mosesekerin/hng-infrastructure)" _blank
+    click P2 "[https://github.com/mosesekerin/job-queue-microservices](https://github.com/mosesekerin/job-queue-microservices)" _blank
+    click P8 "[https://github.com/mosesekerin/Real-time-anomaly-detection-engine](https://github.com/mosesekerin/Real-time-anomaly-detection-engine)" _blank
+    click P9 "[https://github.com/mosesekerin/swiftdeploy](https://github.com/mosesekerin/swiftdeploy)" _blank
+    click P10 "[https://github.com/mosesekerin/DevOps-Sandbox](https://github.com/mosesekerin/DevOps-Sandbox)" _blank
 ---
 
 
